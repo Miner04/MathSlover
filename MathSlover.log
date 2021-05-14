@@ -1,0 +1,8 @@
+﻿  Source.cpp
+F:\Visual SDK\MathSlover\MathSlover\Header.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\Visual SDK\MathSlover\MathSlover\Source.cpp(31,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Visual SDK\MathSlover\MathSlover\Source.cpp(43,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Visual SDK\MathSlover\MathSlover\Source.cpp(55,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Visual SDK\MathSlover\MathSlover\Source.cpp(66,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Visual SDK\MathSlover\MathSlover\Source.cpp(82,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MathSlover.vcxproj -> F:\Visual SDK\MathSlover\Debug\MathSlover.exe
